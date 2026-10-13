@@ -1,7 +1,7 @@
 item,value,source
 rf,0.05,"My professor told me"
-mrp,0.05,"TODO (analyst): market risk premium; say where it comes from and why"
-rd,0.055,"TODO (analyst): pre-tax cost of debt; e.g. yield on the firm's bonds or interest expense / total debt"
-tax,0.21,"TODO (analyst): tax rate; statutory or effective (income tax expense / pretax income)"
-w_e,0.70,"TODO (analyst): market cap / (market cap + total debt)"
-w_d,0.30,"TODO (analyst): total debt / (market cap + total debt)"
+mrp,0.05,"Analyst assumption of 5.0%, within the 4-6% range of published US equity risk premium estimates (Damodaran, NYU Stern: https://pages.stern.nyu.edu/~adamodar/)"
+rd,0.055,"Analyst assumption of 5.5% pre-tax cost of debt; not yet tied to Walmart bond yields or its 10-K interest expense / total debt"
+tax,0.21,"US federal statutory corporate income tax rate of 21% (Internal Revenue Code Sec. 11(b), set by the Tax Cuts and Jobs Act of 2017)"
+w_e,0.70,"Analyst assumption of 70% equity weight; not yet computed from Walmart market cap / (market cap + total debt)"
+w_d,0.30,"Analyst assumption of 30% debt weight; not yet computed from Walmart total debt / (market cap + total debt)"
