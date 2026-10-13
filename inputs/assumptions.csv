@@ -1,0 +1,7 @@
+item,value,source
+rf,0.04,"TODO (analyst): e.g. the 10-year Treasury yield on FRED (DGS10) as of a date you name"
+mrp,0.05,"TODO (analyst): market risk premium; say where it comes from and why"
+rd,0.055,"TODO (analyst): pre-tax cost of debt; e.g. yield on the firm's bonds or interest expense / total debt"
+tax,0.21,"TODO (analyst): tax rate; statutory or effective (income tax expense / pretax income)"
+w_e,0.70,"TODO (analyst): market cap / (market cap + total debt)"
+w_d,0.30,"TODO (analyst): total debt / (market cap + total debt)"
